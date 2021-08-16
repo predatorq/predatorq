@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @predatorq
-- 👀 I’m interested in machine learning
-- 🌱 I’m currently learning nlp
+- Hi, I’m @predatorq
+- I’m interested in machine learning
+- I’m currently learning nlp
+- You can contact me with e-mail: wangzhch23@mail2.sysu.edu.cn
 
 <!---
 predatorq/predatorq is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
