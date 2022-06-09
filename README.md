@@ -1,6 +1,5 @@
 - Hi, I’m @predatorq
-- I’m interested in machine learning
-- I’m currently learning nlp
+- I’m interested in machine learning and nlp.
 - You can contact me with e-mail: wangzhch23@mail2.sysu.edu.cn
 
 <!---
